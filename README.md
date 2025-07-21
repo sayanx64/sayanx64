@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Pal</h1>
-<h3 align="center">I'm a 2nd-year CSE student at KIIT, currently exploring Android and web development, sharpening my DSA skills, and getting into the world of AI/ML 🚀</h3>
+<h3 align="center">I'm a CompSci student passionate about building impactful tech. I love working on open-source projects, competitive programming, and AI/ML.</h3>
 
 ---
 
