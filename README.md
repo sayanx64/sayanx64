@@ -3,8 +3,8 @@
 
 ---
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, Kotlin, Web Development, and AI/ML fundamentals**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/mehsayanhoon)**
+- 🌱 I’m currently learning **Data Structures & Algorithms, building CLI tools, Web scraping, Web Development, and AI/ML fundamentals**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/sayarch)**
 
 ---
 
