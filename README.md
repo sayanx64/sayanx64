@@ -6,7 +6,7 @@ _____
 |__   | .'| | | .'|   |       
 |_____|__,|_  |__,|_|_|       
           |___|               
-[ CS Student · Builder ]
+[ CS Student ]
 ```
 
 </div>
@@ -124,7 +124,7 @@ location : India
 <div align="center">
 
 ```
-[ system uptime: always learning ]  [ last commit: today ]  [ mood: caffeinated ☕ ]
+[ system uptime: always up ]  [ last commit: idk  ]  [ mood: caffeinated ☕ ]
 ```
 
 </div>
