@@ -7,7 +7,7 @@ Member of GDG Cloud KIIT. Open to cloud, backend, and DevOps internships.
 ### Tech
 
 **Cloud & Infra**  
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,linux" height="40" />  
+<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,azure,docker,linux" height="40" />  
 Self-hosted mail server (Postfix + Dovecot) on a VPS
 
 **Backend**  
